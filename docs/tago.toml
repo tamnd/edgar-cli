@@ -1,0 +1,10 @@
+title       = "edgar"
+baseURL     = "https://edgar-cli.tamnd.com/"
+description = "SEC EDGAR company filings and submissions CLI"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/edgar-cli"
